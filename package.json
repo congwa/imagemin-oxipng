@@ -1,9 +1,12 @@
 {
-	"name": "imagemin-oxipng",
+	"name": "imagemin-oxipng-include-oxipng-bin",
 	"version": "1.0.0",
 	"description": "Imagemin plugin for `oxipng`",
 	"license": "MIT",
-	"repository": "imagemin/imagemin-oxipng",
+        "repository": {
+	    "type": "git",
+	    "url": "git+https://github.com/congwa/image-lossless-compressor.git"
+	 },
 	"engines": {
 		"node": ">=10"
 	},
