@@ -1,6 +1,6 @@
 {
 	"name": "imagemin-oxipng-include-oxipng-bin",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "Imagemin plugin for `oxipng`",
 	"license": "MIT",
         "repository": {
